@@ -31,7 +31,7 @@ The curriculum names a blank connection request, four follow-up message slots, a
 4. Message 3 if no reply: relevant proof or a helpful demonstration, clearly identified. Without proof, use a new relevant question or omit the touch; never fabricate a customer result.
 5. Message 4 if no reply: a respectful personal close-out. A geographic reference is optional and must be true and relevant. Do not invent having visited their city or knowing their interests.
 
-The blank request is separate from the four messages. A few business days between eligible touches is an adjustable planning default, not a timing rule supplied by Kara. Stop the remaining sequence on any reply; handle the response first. Stop on rejection or a no-contact request. After the final unanswered touch, park the record instead of adding indefinite follow-ups. Do not assert current platform limits or benchmark rates without checking reliable current sources.
+The blank request is separate from the four messages. A few business days between eligible touches is an adjustable planning default, not a fixed timing rule. Stop the remaining sequence on any reply; handle the response first. Stop on rejection or a no-contact request. After the final unanswered touch, park the record instead of adding indefinite follow-ups. Do not assert current platform limits or benchmark rates without checking reliable current sources.
 
 ## Magnet route
 

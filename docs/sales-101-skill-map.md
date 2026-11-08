@@ -21,11 +21,11 @@ This collection turns classroom material into usable assistant workflows. Classr
 
 ## Attribution
 
-Skill author: John Peslar AI. The Agent J decks explicitly credit Josh Braun for ICP/outreach phrasing, illumination questions, 4T, soft breakup, and objection sorting; Alex Hormozi / Acquisition.com and $100M Offers for the Value Equation, stack, pricing/pitch influence, and risk reversal; Kara McMaster for LinkedIn four-touch outreach and reply cadence; Kellen Casebeer for copy critique; and Will Barron for sales cadence. These are source influences cited by the decks, not claims that the collection reproduces each educator's complete method or exact scripts. No endorsement is implied.
+Skill author: John Peslar AI. The Agent J decks explicitly credit Josh Braun for ICP/outreach phrasing, illumination questions, 4T, soft breakup, and objection sorting; Alex Hormozi / Acquisition.com and $100M Offers for the Value Equation, stack, pricing/pitch influence, and risk reversal; Kellen Casebeer for copy critique; and Will Barron for sales cadence. These are source influences cited by the decks, not claims that the collection reproduces each educator's complete method or exact scripts. No endorsement is implied.
 
 ## How these fit existing skills
 
-The new collection focuses on the first-client workflow, small field tests, and evidence handoffs. Existing `hundred-million-offers`, `offer-stack-builder`, and `hormozi-pitch` cover broader offer work; `kara-cold-outbound`, `linkedin-signal-miner`, and `lead-magnet-factory` provide channel depth; `kellen-copy-coach` provides deeper copy critique. They are optional complements, not runtime dependencies. No existing skills were replaced.
+The new collection focuses on the first-client workflow, small field tests, and evidence handoffs. Existing `hundred-million-offers`, `offer-stack-builder`, and `hormozi-pitch` cover broader offer work; `reply-first-linkedin-dms`, `linkedin-signal-miner`, and `lead-magnet-factory` provide channel depth; `kellen-copy-coach` provides deeper copy critique. They are optional complements, not runtime dependencies. No existing skills were replaced.
 
 ## Portability and scope
 

@@ -62,4 +62,4 @@ Create drafts and plans within the requested scope. Sending messages, booking me
 
 ## Source
 
-Agent J Sales 101 curriculum-deck.pdf, pages 6-9; week1-icp-deck.pdf, pages 3-10; week2-offer-deck.pdf, page 13. The outline credits Josh Braun for 4T and Kara McMaster for LinkedIn four-touch outreach. Channel schedules, scoring anchors, and drafted messages here are practical adaptations, not verbatim educator scripts. These are practical adaptations by John Peslar AI, not endorsements by the referenced educators. The skill is self-contained; the original decks are not required at runtime.
+Agent J Sales 101 curriculum-deck.pdf, pages 6-9; week1-icp-deck.pdf, pages 3-10; week2-offer-deck.pdf, page 13. The outline credits Josh Braun for 4T. Channel schedules, scoring anchors, and drafted messages here are practical adaptations, not verbatim educator scripts. These are practical adaptations by John Peslar AI, not endorsements by the referenced educators. The skill is self-contained; the original decks are not required at runtime.

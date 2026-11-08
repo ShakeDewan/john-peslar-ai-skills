@@ -128,7 +128,7 @@ I want the diagnosis, buyer-state routing, CTA cleanup, proof gaps, objection ha
 ```
 
 ```text
-Use $kara-cold-outbound to build a LinkedIn cold outbound sequence for this offer:
+Use $reply-first-linkedin-dms to build a LinkedIn cold outbound sequence for this offer:
 
 Offer:
 [describe]
@@ -140,7 +140,7 @@ I want a blank connection request strategy, a 4-message icebreaker sequence opti
 ```
 
 ```text
-Use $kara-cold-outbound to critique and rewrite these cold LinkedIn DMs:
+Use $reply-first-linkedin-dms to critique and rewrite these cold LinkedIn DMs:
 
 [paste messages]
 

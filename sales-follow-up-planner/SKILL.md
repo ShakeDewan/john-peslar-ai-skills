@@ -46,4 +46,4 @@ Create drafts and plans within the requested scope. Sending messages, booking me
 
 ## Source
 
-Agent J Sales 101 curriculum-deck.pdf, page 12. The outline credits Josh Braun for soft breakup and Kara McMaster for reply cadence. Exact schedules and example messages are adaptations, not verbatim source methods. These are practical adaptations by John Peslar AI, not endorsements by the referenced educators. The skill is self-contained; the original decks are not required at runtime.
+Agent J Sales 101 curriculum-deck.pdf, page 12. The outline credits Josh Braun for soft breakup. Exact schedules and example messages are adaptations, not verbatim source methods. These are practical adaptations by John Peslar AI, not endorsements by the referenced educators. The skill is self-contained; the original decks are not required at runtime.

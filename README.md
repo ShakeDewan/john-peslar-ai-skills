@@ -33,7 +33,7 @@ npx skills add jpeslar1/john-peslar-ai-skills/hormozi-hooks --global
 npx skills add jpeslar1/john-peslar-ai-skills/kellen-copy-coach --global
 npx skills add jpeslar1/john-peslar-ai-skills/hormozi-pitch --global
 npx skills add jpeslar1/john-peslar-ai-skills/hundred-million-offers --global
-npx skills add jpeslar1/john-peslar-ai-skills/kara-cold-outbound --global
+npx skills add jpeslar1/john-peslar-ai-skills/reply-first-linkedin-dms --global
 ```
 
 ### With Codex Plugins
@@ -73,7 +73,7 @@ codex plugin install sales-101@john-peslar-ai-skills
 | [`kellen-copy-coach`](kellen-copy-coach/SKILL.md) | Kellen Casebeer-inspired outbound copy critique, rewrites, psychology, CTA sharpening, and buyer-centric framing |
 | [`hormozi-pitch`](hormozi-pitch/SKILL.md) | Turning rough offers into launch-ready pitches with value stacks, guarantees, urgency, objections, and short/medium/long pitch versions |
 | [`hundred-million-offers`](hundred-million-offers/SKILL.md) | Creating Grand Slam Offers using the Value Equation, bonus stacking, guarantees, ethical scarcity, MAGIC naming, and market selection |
-| [`kara-cold-outbound`](kara-cold-outbound/SKILL.md) | Writing and fixing LinkedIn cold outbound: connection requests, DM icebreaker sequences, follow-ups, and reply-first messaging |
+| [`reply-first-linkedin-dms`](reply-first-linkedin-dms/SKILL.md) | Writing and fixing LinkedIn cold outbound: connection requests, DM icebreaker sequences, follow-ups, and reply-first messaging |
 | [`alex-hormozi-voice`](alex-hormozi-voice/SKILL.md) | Writing in Alex Hormozi's voice: blunt math-of-money frameworks for posts, hooks, offers, objections, and closes |
 | [`mark-cuban-voice`](mark-cuban-voice/SKILL.md) | Writing in Mark Cuban's voice: combative pragmatist takes, sales-cures-all commentary, and blunt objection handling |
 | [`kevin-oleary-voice`](kevin-oleary-voice/SKILL.md) | Writing in Kevin O'Leary's voice: money-has-no-feelings deal logic for closes, negotiations, and spicy commentary |
@@ -254,7 +254,7 @@ Build a 30-day acquisition sprint toward a first qualified sales meeting using o
 
 **Skill author:** John Peslar AI
 
-**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, pages 6-9; week1-icp-deck.pdf, pages 3-10; week2-offer-deck.pdf, page 13. The outline credits Josh Braun for 4T and Kara McMaster for LinkedIn four-touch outreach. Channel schedules, scoring anchors, and drafted messages here are practical adaptations, not verbatim educator scripts.
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, pages 6-9; week1-icp-deck.pdf, pages 3-10; week2-offer-deck.pdf, page 13. The outline credits Josh Braun for 4T. Channel schedules, scoring anchors, and drafted messages here are practical adaptations, not verbatim educator scripts.
 
 **Use when you need to:**
 
@@ -317,7 +317,7 @@ Draft a bounded follow-up sequence for a real open deal or dormant sales thread 
 
 **Skill author:** John Peslar AI
 
-**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 12. The outline credits Josh Braun for soft breakup and Kara McMaster for reply cadence. Exact schedules and example messages are adaptations, not verbatim source methods.
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 12. The outline credits Josh Braun for soft breakup. Exact schedules and example messages are adaptations, not verbatim source methods.
 
 **Use when you need to:**
 
@@ -902,13 +902,13 @@ Use $hundred-million-offers to redesign this offer with bonuses, guarantee, pric
 
 ---
 
-### [`kara-cold-outbound`](kara-cold-outbound/SKILL.md)
+### [`reply-first-linkedin-dms`](reply-first-linkedin-dms/SKILL.md)
 
 LinkedIn cold outbound playbook for writing, rewriting, and critiquing connection requests, DM icebreaker sequences, and follow-ups. Built around reply-first messaging: the sequence exists to start conversations, not to beg for calls. Includes the last-message-as-inbox-preview technique, geo-personalization openers, objection handling, and a 7-point critique rubric.
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [Kara McMaster](https://www.karamcmaster.com/) and the LinkedIn outbound playbook she shared publicly on the Agent J AI Prompting Masterclass, filled out with Kellen Casebeer / GTM Cafe teachings and top-engagement practitioner research. This skill is not affiliated with or endorsed by Kara McMaster or Kellen Casebeer.
+**Source inspiration:** John Peslar's LinkedIn outbound playbook, filled out with Kellen Casebeer / GTM Cafe teachings and top-engagement practitioner research. This skill is not affiliated with or endorsed by Kellen Casebeer.
 
 **Use when you need to:**
 
@@ -921,15 +921,15 @@ LinkedIn cold outbound playbook for writing, rewriting, and critiquing connectio
 **Example prompts:**
 
 ```text
-Use $kara-cold-outbound to write a 4-message LinkedIn icebreaker sequence for this ICP and offer.
+Use $reply-first-linkedin-dms to write a 4-message LinkedIn icebreaker sequence for this ICP and offer.
 ```
 
 ```text
-Use $kara-cold-outbound to critique this cold DM and rewrite it to optimize for a reply.
+Use $reply-first-linkedin-dms to critique this cold DM and rewrite it to optimize for a reply.
 ```
 
 ```text
-Use $kara-cold-outbound to build the follow-up plan after a prospect replies "not right now".
+Use $reply-first-linkedin-dms to build the follow-up plan after a prospect replies "not right now".
 ```
 
 ---
